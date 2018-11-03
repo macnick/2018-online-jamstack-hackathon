@@ -10,7 +10,7 @@ Please read the following carefully, and act on each item that requires your att
 - [x] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
 - [x] Chat with others in the Discord group to brainstorm ideas and form teams. You will also do this after the hackathon has begun. IMPORTANT: Online hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
 - [x] Review this `README.md` file for further instructions and guidelines
-- [ ] Review the [APIs](/apis.md)
+- [x] Review the [APIs](/apis.md)
 - [ ] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
 - [ ] Review the [Judging Protocol](/judging-protocol.md)
 - [ ] Already have a team? List it in the [Teams file](/teams.md).
